@@ -1,0 +1,23 @@
+body {
+    background-color: red;
+}
+
+h1 {
+    color:white;
+    font-size: 40px;
+    text-align: center;
+}
+
+.mainDiv{
+    height:250px;
+    width: 200px;
+    background-color: aliceblue;
+    margin: auto;
+}
+
+#secondDiv{
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    background-color: blue;
+}
