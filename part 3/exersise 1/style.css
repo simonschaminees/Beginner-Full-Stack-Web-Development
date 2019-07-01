@@ -1,0 +1,19 @@
+html {
+    font-family: sans-serif, monospace;
+}
+
+
+body {
+    background-color: #444;
+
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.borderImage{
+    height: 750px;
+    width: 900px;
+    border: 5px dashed red;
+}
